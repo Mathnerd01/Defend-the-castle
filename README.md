@@ -6,4 +6,6 @@ This is a game developed on the Arduino platform using Android Studio.
 - Code explanation can be found in the file: "The More You Know."
 - Java code location: app\src\main\java
 - XML code and Drowable location: app\src\main\res 
-- a video of the game will be included 
+- a video of the game is  included 
+
+have Fun :)
